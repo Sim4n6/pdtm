@@ -48,7 +48,7 @@ go install -v github.com/projectdiscovery/pdtm/cmd/pdtm@latest
 > **Notes**:
 
 > - *Currently, projects are installed by downloading the released project binary. This means that projects can only be installed on the platforms for which binaries have been published.*
-> - *The path $HOME/.pdtm/go/bin is added to the $PATH variable by default*
+> - *The path $HOME/go/bin is added to the $PATH variable by default*
 
 </table>
 </tr>
